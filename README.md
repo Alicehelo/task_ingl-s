@@ -105,17 +105,6 @@ python manage.py runserver
 
 ---
 
-<a id="como-usar-"></a>
-## 🧭 Como Usar  
-
-1. Acesse o sistema em `http://127.0.0.1:8000/`  
-2. Crie uma conta e faça login.  
-3. Explore os animais cadastrados para adoção.  
-4. Solicite a adoção e acompanhe o status pelo painel.  
-5. Se desejar, cadastre novos animais para adoção.
-
----
-
 <a id="estrutura-do-projeto-"></a>
 ## 📁 Estrutura do Projeto  
 
