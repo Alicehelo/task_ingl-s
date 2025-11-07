@@ -8,10 +8,9 @@
 1. [Visão Geral](#visão-geral-)  
 2. [Principais Funcionalidades](#principais-funcionalidades-)  
 3. [Tecnologias Utilizadas](#tecnologias-utilizadas-)  
-4. [Instalação e Configuração](#instalação-e-configuração-)  
-5. [Como Usar](#como-usar-)  
-6. [Estrutura do Projeto](#estrutura-do-projeto-)  
-7. [Futuras Implementações](#futuras-implementações-)
+4. [Instalação e Configuração](#instalação-e-configuração-)    
+5. [Estrutura do Projeto](#estrutura-do-projeto-)  
+6. [Futuras Implementações](#futuras-implementações-)
 
 ---
 
