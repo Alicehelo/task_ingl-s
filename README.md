@@ -89,7 +89,7 @@ cd saquadot
 
 # 2. Criar e ativar o ambiente virtual
 python -m venv .venv
-.\.venv\Scriptsctivate  # Windows
+.\.venv\Scripts\activate  # Windows
 
 # 3. Instalar as dependências
 pip install django
